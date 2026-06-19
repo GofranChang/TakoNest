@@ -25,7 +25,6 @@ Images and build photos will be added as the design is refined.
 ```text
 TakoNest/
 ├── models/        # STEP / STL / CAD files
-├── plates/        # Plate DXF / cutting files
 ├── images/        # Photos and renders
 └── README.md
 ```
@@ -65,6 +64,8 @@ Please confirm the plate type before production.
 ### 3D Printing
 
 FDM printing is recommended for prototyping and personal builds.
+
+![TakoNest case print](imgs/tako.png)
 
 Suggested materials:
 
