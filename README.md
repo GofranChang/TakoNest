@@ -65,7 +65,7 @@ Please confirm the plate type before production.
 
 FDM printing is recommended for prototyping and personal builds.
 
-![TakoNest case print](imgs/tako.png)
+![TakoNest case print](imgs/tako.jpg)
 
 Suggested materials:
 
