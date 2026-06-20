@@ -4,6 +4,8 @@ A custom case project for [Tako](https://github.com/ssbb/tako), a 34-key electro
 
 TakoNest is an unofficial case design that aims to make Tako feel more like a complete custom keyboard, while keeping compatibility with the original PCB and EC plate structure.
 
+![TakoNest case print](imgs/tako.jpg)
+
 > ⚠️ This project is still a work in progress.
 > Please verify all dimensions before printing or manufacturing parts.
 
@@ -64,8 +66,6 @@ Please confirm the plate type before production.
 ### 3D Printing
 
 FDM printing is recommended for prototyping and personal builds.
-
-![TakoNest case print](imgs/tako.jpg)
 
 Suggested materials:
 
